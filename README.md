@@ -1,52 +1,63 @@
-# Junior Developer | Python, Django, DRF
-Forging C & Java, leveling JS, HTML & CSS for the frontend
-Specialized in Video Encoding & Digital Media
-Learning DRF, but already crafting lethal APIs
+# 💫 About Me
+**Junior Developer | Python, Django, DRF**  
+Forging **C & Java**, leveling **JS, HTML & CSS** for frontend  
+Specialized in **Video Encoding & Digital Media Management**  
+Learning **Django REST Framework**, but already **crafting lethal, scalable APIs**  
 
-🎮 Gamer of shadows – PC, PlayStation & Battle.net
-* I write code in the dark… and conquer games in the chaos. *
+🎮 **Gamer of Shadows** – PC, PlayStation & Battle.net  
+*I code in darkness, play in chaos, and leave my mark everywhere.*  
 
-## 🎮 Gaming:
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/yoursteamid) 
-[![PlayStation](https://img.shields.io/badge/PlayStation-%23007ACC.svg?logo=playstation&logoColor=white)](https://yourplaystationlink) 
-[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEEF.svg?logo=battlenet&logoColor=white)](https://yourbattlenetlink) 
-[![PC](https://img.shields.io/badge/PC-%23101010.svg?logo=windows&logoColor=white)](#)
+💡 **Passion:** Turning complex problems into elegant solutions, automating workflows, and mastering the art of building APIs & dynamic web apps.  
 
-## 🌐 Socials:
+---
+
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code2encoder) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-muhammad-abdullah-ibrahim-38b586243) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/voidencoder) 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@code2encoder_noir) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ai8526304@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ai8526304@gmail.com)
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![C](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+## 🎮 Gaming
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/yoursteamid) 
+[![PlayStation](https://img.shields.io/badge/PlayStation-%23007ACC.svg?logo=playstation&logoColor=white)](https://yourplaystationlink) 
+[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEEF.svg?logo=battlenet&logoColor=white)](https://yourbattlenetlink) 
+[![PC](https://img.shields.io/badge/PC-%23101010.svg?logo=windows&logoColor=white)](#)  
+
+*Code hard, play harder, live in the shadows.*
+
+---
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Abdullahkhan000&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdullahkhan000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahkhan000&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdullahkhan000&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
