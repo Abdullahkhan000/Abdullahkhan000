@@ -1,5 +1,10 @@
 # 💫 About Me:
-Junior Developer — Python, DRF, Django, Building strong foundations in C, Java, HTML, and JavaScript Specialized in Video Encoding & Digital Media Management<br>But now i can make good api's from django rest framework
+Junior Developer | Python, Django, DRF
+Mastering C & Java, leveling up JS, HTML & CSS for frontend
+Specialized in Video Encoding & Digital Media
+Learning DRF, but already crafting killer APIs
+
+Code in shadows, deploy in light.
 
 
 ## 🌐 Socials:
